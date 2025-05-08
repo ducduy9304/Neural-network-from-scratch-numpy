@@ -4,7 +4,7 @@ TinyTorch is a lightweight neural network framework built from scratch using onl
 
 ## 🚀 Features
 
-- PyTorch-like API (e.g., `Module`, `Tensor`, `Sequential`, etc.)
+- PyTorch-like API (e.g., `Module`, `Sequential`, etc.)
 - Forward and backward propagation from scratch
 - Custom loss functions and optimizers
 - Basic autograd engine (if implemented)
